@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+
+body{
+    font-family: 'Raleway', sans-serif;
+}
+.bg-light-orange{
+    background-color: #FCEAE8;
+}
+.bg-light-purple{
+    background-color: #DA70D6;
+}
+.bg-tomato{
+    background-color: #FF136F;
+}
+
